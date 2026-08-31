@@ -1,0 +1,11 @@
+﻿,0
+"corr(pred, realized)",-0.03149553243949464
+MAE,2.0730263889188787e+36
+RMSE,3.450203529265586e+37
+regime_hit_rate,0.7184115523465704
+avg_realized_vol_when_pred_high,6.531374089929623
+avg_realized_vol_when_pred_low,4.808200278177067
+avg_next_ret_when_pred_high_vol,0.015390378236436584
+avg_next_ret_when_pred_low_vol,0.008862947599856624
+avg_next_ret_when_realized_high_vol,0.001639606322776476
+avg_next_ret_when_realized_low_vol,0.014577172447809005

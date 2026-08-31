@@ -1,0 +1,25 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.env.*
+output/cache/
+
+# Local/original research material
+데이터 원본/
+
+# Generated presentation/report artifacts
+*.pdf
+!논문/*.pdf
+*.pptx
+*.docx
+*.html
+
+# Large raw CSV files not required by the final notebook
+2000_2026_코스피코스닥_거래대금_일별_비영업일제외.csv
+2000_2026_코스피코스닥_거래량_일별_비영업일제외.csv
+2000_2026_코스피코스닥_수정주가_일별_비영업일제외.csv
+2000_2026_코스피코스닥_시가총액_일별_비영업일제외.csv
+2000_2026_코스피200_일별_거래량_비영업일제외.csv
+2000_2026_KOSPI200, SMB, HML, MOM_수정종가_91CD_알별_비영업일제외.csv
